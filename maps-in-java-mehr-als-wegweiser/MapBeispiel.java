@@ -6,7 +6,7 @@ public class MapBeispiel {
         // Eine neue Map erstellen
         Map<String, String> telefonbuch = new HashMap<>();
 
-        // Einträge hinzufuegen
+        // Eintraege hinzufuegen
         telefonbuch.put("Anna", "0151-1234567");
         telefonbuch.put("Bernd", "0170-9876543");
         telefonbuch.put("Clara", "0160-5551234");
